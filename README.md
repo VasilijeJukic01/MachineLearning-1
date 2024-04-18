@@ -5,7 +5,7 @@
 - [Overview](#overview)
 - [Polynomial Regression](#polynomial-regression)
 - [kNN](#knn)
-- [Natural Language Proccessing](#natural-language-proccessing)
+- [Natural Language Processing](#natural-language-processing)
 - [Dependencies](#dependencies)
 
 ## Overview
